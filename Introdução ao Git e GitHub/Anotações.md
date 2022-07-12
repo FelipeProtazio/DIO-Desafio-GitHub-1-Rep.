@@ -10,7 +10,6 @@
   - "*git clone*"- verificação de repositório, cópia;
   - "*git status*"- lista de arquivos alterados;
   - "*git push* "- envia as alterações para o ramo mestre do repositório associado ao diretório;
-  <<<<<<<< HEAD:Introdução ao Git e GitHub/Anotações.md.txt
   - "*git add .* "- adiciona todos novos arquivos;
   - "*git commit -m*"- criação de commit com comentário para ir para a nuvem;
   - "*git push origin main*" - enviar commit´s locais para a nuvem;
